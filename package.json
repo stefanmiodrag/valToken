@@ -1,0 +1,19 @@
+{
+  "name": "val-token",
+  "version": "1.0.0",
+  "description": "Validate coupons.",
+  "repository": "stefanmiodrag/valToken",
+  "license": "MIT",
+  "author": {
+    "name": "Stefan Miodrag",
+    "email": "hello@stefanmiodrag.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "verify",
+    "coupons",
+    "validate"
+  ]
+}
